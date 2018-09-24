@@ -2,7 +2,7 @@
   "development": {
     "username": "root",
     "password": "rootroot",
-    "database": "database_development",
+    "database": "sequelize_burgersDB",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
@@ -14,10 +14,10 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
-    "password": "rootroot",
-    "database": "database_production",
-    "host": "127.0.0.1",
+    "username": "spgtoz05xj597v4w",
+    "password": "inv5zqmjfuq95wok",
+    "database": "wqiacc2ujpsjje3e",
+    "host": "tyduzbv3ggpf15sx.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   }
 }

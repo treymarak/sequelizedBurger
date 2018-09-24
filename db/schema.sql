@@ -1,5 +1,5 @@
-CREATE DATABASE burgers_db;
-USE burgers_db;
+CREATE DATABASE sequelize_burgersDB;
+USE sequelize_burgersDB;
 
 CREATE TABLE burgers
 (
